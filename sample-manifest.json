@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a667ae6d-d16f-4c57-ac31-3e609dbf841f",
+  "export_job_id": "2769abe6-96ae-4b56-bcb2-a62131255e88",
   "id_short": 658405,
-  "published_at": "2026-04-23T19:11:42Z",
+  "published_at": "2026-04-30T19:15:45Z",
   "repo_name": "all-restaurants-in-greenville-anderson-greer-metro-south-carolina-us-sample-658405",
   "sample_asset_name": "beamstation_658405_restaurants-us-greenvilleandersongreersc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/658405/beamstation_658405_restaurants-us-greenvilleandersongreersc_SAMPLE_DIST.csv",
-  "sample_records": 75,
-  "sample_sha256": "aa523163cd11fe6184ae4f69abed5bf3106edc1a50554d89fd7320705bcbd7b6",
-  "sample_size_bytes": 302548,
-  "total_records": 753
+  "sample_records": 205,
+  "sample_sha256": "3ac0243661c185f1bafd1e7c07dd890f7e2c04ff9181d456b2ed987230acc3ae",
+  "sample_size_bytes": 705331,
+  "total_records": 2056
 }
